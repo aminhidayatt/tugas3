@@ -1,5 +1,3 @@
-package ASD3;
-
 public class StuckFloat {
 	ArrayList<Float>st=new ArrayList<Float>();
 	public int ecor = -1;
